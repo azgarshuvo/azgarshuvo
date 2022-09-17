@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 <!--### <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azgarshuvo&show_icons=true&locale=en" alt="azgarshuvo" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azgarshuvo&" alt="azgarshuvo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azgarshuvo&layout=compact" alt="azgarshuvo" /></p>
 
